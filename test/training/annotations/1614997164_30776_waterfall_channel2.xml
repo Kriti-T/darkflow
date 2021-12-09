@@ -1,0 +1,26 @@
+<annotation>
+    <folder>signal</folder>
+    <filename>1614997164_30776_waterfall_channel2.jpeg</filename>
+    <path>C:\Users\kriti\OneDrive - CLEARBOX SYSTEMS PTY LIMITED\Desktop\Welch Data\data_both_all_M2\train\signal\1614997164_30776_waterfall_channel2.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>542</width>
+        <height>1000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>signal</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>0</ymin>
+            <xmax>541</xmax>
+            <ymax>999</ymax>
+        </bndbox>
+    </object>
+</annotation>
